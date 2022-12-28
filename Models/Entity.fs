@@ -1,4 +1,4 @@
-module SaturnPg.Models.Entity
+module SaturnPg.Models
 
 [<CLIMutable>]
 type Entity = {

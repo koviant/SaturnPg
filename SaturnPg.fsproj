@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <Compile Include="Models\Entity.fs" />
+    <Compile Include="Data\EntityDb.fs" />
     <Compile Include="Controllers\EntityController.fs" />
     <Compile Include="Router.fs" />
     <Compile Include="Program.fs" />
